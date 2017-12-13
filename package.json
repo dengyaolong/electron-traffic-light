@@ -1,0 +1,18 @@
+{
+  "name": "electron-traffic-light",
+  "version": "0.0.1",
+  "description": "Custom traffic light for Electron Application",
+  "main": "index.js",
+  "scripts": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dengyaolong/electron-traffic-light.git"
+  },
+  "keywords": [],
+  "author": "dengyaolong",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/dengyaolong/electron-traffic-light/issues"
+  },
+  "homepage": "https://github.com/dengyaolong/electron-traffic-light#readme"
+}
