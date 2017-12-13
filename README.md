@@ -27,3 +27,4 @@ app.on('ready', () => {
 ```
 
 And you can see "traffic light"!
+![image](https://user-images.githubusercontent.com/6772690/33932249-6104eed2-e02d-11e7-8a11-900deffdb664.png)
